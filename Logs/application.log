@@ -1,0 +1,692 @@
+2023-05-29 23:19:21 INFO  DbMain:15 - Connection Succesfull
+2023-05-29 23:19:21 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-29 23:19:21 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-29 23:19:21 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-29 23:19:22 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-29 23:19:22 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-29 23:19:22 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-29 23:19:22 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-29 23:19:22 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-29 23:19:22 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-29 23:19:22 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-29 23:19:22 INFO  DbMain:45 - Created
+2023-05-29 23:19:22 INFO  DbMain:56 - Updated
+2023-05-29 23:19:22 INFO  DbMain:66 - Deleted
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami00UV0
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami110000UV1
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami220000UV2
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami330000UV3
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami440000UV4
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami550000UV5
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami660000UV6
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami770000UV7
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami880000UV8
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami00UV0
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami110000UV1
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami220000UV2
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami330000UV3
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami440000UV4
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami550000UV5
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami660000UV6
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami770000UV7
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami880000UV8
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami00UV0
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami110000UV1
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami220000UV2
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami330000UV3
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami440000UV4
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami550000UV5
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami660000UV6
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami770000UV7
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami880000UV8
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami00UV0
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami110000UV1
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami220000UV2
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami330000UV3
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami440000UV4
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami550000UV5
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami660000UV6
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami770000UV7
+2023-05-29 23:19:22 INFO  DbMain:75 - Nikon valami880000UV8
+2023-05-30 15:29:20 INFO  DbMain:15 - Connection Succesfull
+2023-05-30 15:29:20 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-30 15:29:20 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-30 15:29:20 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-30 15:29:20 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-30 15:29:20 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-30 15:29:20 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-30 15:29:20 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-30 15:29:20 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-30 15:29:21 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-30 15:29:21 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-30 15:29:21 INFO  DbMain:45 - Created
+2023-05-30 15:29:21 INFO  DbMain:56 - Updated
+2023-05-30 15:29:21 INFO  DbMain:66 - Deleted
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami00UV0
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami110000UV1
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami220000UV2
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami330000UV3
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami440000UV4
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami550000UV5
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami660000UV6
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami770000UV7
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami880000UV8
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami00UV0
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami110000UV1
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami220000UV2
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami330000UV3
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami440000UV4
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami550000UV5
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami660000UV6
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami770000UV7
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami880000UV8
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami00UV0
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami110000UV1
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami220000UV2
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami330000UV3
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami440000UV4
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami550000UV5
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami660000UV6
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami770000UV7
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami880000UV8
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami00UV0
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami110000UV1
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami220000UV2
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami330000UV3
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami440000UV4
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami550000UV5
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami660000UV6
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami770000UV7
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami880000UV8
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami00UV0
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami110000UV1
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami220000UV2
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami330000UV3
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami440000UV4
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami550000UV5
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami660000UV6
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami770000UV7
+2023-05-30 15:29:21 INFO  DbMain:75 - Nikon valami880000UV8
+2023-05-30 15:33:37 INFO  DbMain:15 - Connection Succesfull
+2023-05-30 15:33:37 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-30 15:33:37 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-30 15:33:37 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-30 15:33:37 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-30 15:33:37 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-30 15:33:37 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-30 15:33:37 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-30 15:33:37 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-30 15:33:37 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-30 15:33:38 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-30 15:33:38 INFO  DbMain:45 - Created
+2023-05-30 15:33:38 INFO  DbMain:56 - Updated
+2023-05-30 15:33:38 INFO  DbMain:66 - Deleted
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami00UV0
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami110000UV1
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami220000UV2
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami330000UV3
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami440000UV4
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami550000UV5
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami660000UV6
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami770000UV7
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami880000UV8
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami00UV0
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami110000UV1
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami220000UV2
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami330000UV3
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami440000UV4
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami550000UV5
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami660000UV6
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami770000UV7
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami880000UV8
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami00UV0
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami110000UV1
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami220000UV2
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami330000UV3
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami440000UV4
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami550000UV5
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami660000UV6
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami770000UV7
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami880000UV8
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami00UV0
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami110000UV1
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami220000UV2
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami330000UV3
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami440000UV4
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami550000UV5
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami660000UV6
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami770000UV7
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami880000UV8
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami00UV0
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami110000UV1
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami220000UV2
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami330000UV3
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami440000UV4
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami550000UV5
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami660000UV6
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami770000UV7
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami880000UV8
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami00UV0
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami110000UV1
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami220000UV2
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami330000UV3
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami440000UV4
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami550000UV5
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami660000UV6
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami770000UV7
+2023-05-30 15:33:38 INFO  DbMain:75 - Nikon valami880000UV8
+2023-05-31 16:20:24 INFO  DbMain:15 - Connection Succesfull
+2023-05-31 16:20:25 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 16:20:25 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-31 16:20:25 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-31 16:20:25 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 16:20:25 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 16:20:25 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 16:20:25 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 16:20:25 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 16:20:25 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 16:20:26 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 16:20:26 INFO  DbMain:45 - Created
+2023-05-31 16:20:26 INFO  DbMain:56 - Updated
+2023-05-31 16:20:26 INFO  DbMain:66 - Deleted
+2023-05-31 16:20:26 INFO  DbMain:75 - Nikon valami00UV0
+2023-05-31 16:20:26 INFO  DbMain:75 - Nikon valami110000UV1
+2023-05-31 16:20:26 INFO  DbMain:75 - Nikon valami220000UV2
+2023-05-31 16:20:26 INFO  DbMain:75 - Nikon valami330000UV3
+2023-05-31 16:20:26 INFO  DbMain:75 - Nikon valami440000UV4
+2023-05-31 16:20:26 INFO  DbMain:75 - Nikon valami550000UV5
+2023-05-31 16:20:26 INFO  DbMain:75 - Nikon valami660000UV6
+2023-05-31 16:20:26 INFO  DbMain:75 - Nikon valami770000UV7
+2023-05-31 16:20:26 INFO  DbMain:75 - Nikon valami880000UV8
+2023-05-31 20:40:00 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 20:40:00 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-31 20:40:01 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-31 20:40:01 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 20:40:01 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 20:40:01 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 20:40:01 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 20:40:01 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 20:40:01 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 20:40:02 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 20:47:01 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 20:47:01 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-31 20:47:01 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-31 20:47:01 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 20:47:01 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 20:47:01 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 20:47:01 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 20:47:01 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 20:47:01 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 20:47:02 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 20:48:00 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 20:48:00 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-31 20:48:00 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-31 20:48:01 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 20:48:01 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 20:48:01 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 20:48:01 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 20:48:01 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 20:48:01 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 20:48:01 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 20:50:43 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 20:50:43 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-31 20:50:43 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-31 20:50:43 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 20:50:43 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 20:50:43 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 20:50:43 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 20:50:43 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 20:50:43 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 20:50:44 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:00:07 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:00:07 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-31 21:00:08 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-31 21:00:08 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:00:08 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:00:08 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:00:08 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:00:08 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:00:08 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:00:08 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:00:09 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:00:09 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:00:09 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:00:09 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:00:09 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:00:09 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:00:09 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:00:09 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:05:17 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:05:18 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-31 21:05:18 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-31 21:05:18 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:05:18 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:05:18 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:05:18 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:05:18 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:05:18 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:05:19 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:05:19 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:05:19 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:05:19 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:05:19 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:05:19 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:05:19 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:05:19 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:05:19 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:05:19 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:05:19 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:05:19 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:05:19 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:05:19 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:05:19 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:05:19 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:05:19 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:09:59 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:09:59 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-31 21:09:59 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-31 21:09:59 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:09:59 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:09:59 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:09:59 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:09:59 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:10:00 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:10:00 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:10:00 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:10:00 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:10:00 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:10:00 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:10:00 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:10:00 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:10:00 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:10:00 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:10:00 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:10:00 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:10:00 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:10:00 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:10:00 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:10:00 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:10:00 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:10:00 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:10:00 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:10:00 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:10:00 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:10:00 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:10:00 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:10:00 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:10:00 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:10:00 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:10:00 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:10:00 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:10:00 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:10:00 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:10:00 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:10:00 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:10:00 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:10:00 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:10:00 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:10:00 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:10:01 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:10:01 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:10:01 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:10:01 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:10:01 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:10:01 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:15:19 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:15:19 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-31 21:15:19 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-31 21:15:19 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:15:19 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:15:19 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:15:19 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:15:19 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:15:20 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:15:20 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:15:20 ERROR KameraHazRepository:89 - DB entityCreateExceptionType specified for TypedQuery [com.gergo.alkalmazas.model.KameraHaz] is incompatible with query return type [class com.gergo.alkalmazas.model.Filter]
+java.lang.IllegalArgumentException: Type specified for TypedQuery [com.gergo.alkalmazas.model.KameraHaz] is incompatible with query return type [class com.gergo.alkalmazas.model.Filter]
+	at org.hibernate.internal.AbstractSharedSessionContract.buildIncompatibleException(AbstractSharedSessionContract.java:1029)
+	at org.hibernate.internal.AbstractSharedSessionContract.resultClassChecking(AbstractSharedSessionContract.java:888)
+	at org.hibernate.internal.AbstractSharedSessionContract.createQuery(AbstractSharedSessionContract.java:849)
+	at org.hibernate.internal.AbstractSessionImpl.createQuery(AbstractSessionImpl.java:23)
+	at com.gergo.alkalmazas.repository.KameraHazRepository.KamerahazList(KameraHazRepository.java:82)
+	at com.gergo.alkalmazas.test.KameraHazTest.testListAllElements(KameraHazTest.java:48)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:727)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:217)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:213)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:138)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:68)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86)
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55)
+2023-05-31 21:15:20 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:15:20 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:15:20 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:15:20 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:15:20 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:15:20 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:15:20 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:15:20 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:15:20 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:15:20 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:15:20 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:15:20 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:15:20 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:15:20 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:15:20 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:15:20 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:15:20 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:15:20 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:15:20 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:15:20 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:15:20 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:15:20 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:15:20 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:15:20 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:15:20 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:15:20 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:15:20 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:15:20 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:15:20 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:15:20 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:15:20 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:15:20 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:15:21 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:15:21 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:15:21 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:15:21 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:15:21 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:15:21 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:15:21 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:15:21 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:15:21 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:15:21 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:15:21 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:15:21 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:15:21 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:15:21 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:15:21 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:15:21 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:18:36 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:18:36 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-31 21:18:36 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-31 21:18:36 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:18:36 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:18:36 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:18:36 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:18:36 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:18:36 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:18:37 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:18:37 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:18:37 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:18:37 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:18:37 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:18:37 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:18:37 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:18:37 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:18:37 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:18:37 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:18:37 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:18:37 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:18:37 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:18:37 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:18:37 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:18:37 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:18:37 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:18:37 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:18:37 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:18:37 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:18:37 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:18:37 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:18:37 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:18:37 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:18:37 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:18:37 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:18:37 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:18:37 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:18:37 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:18:37 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:18:37 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:18:37 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:18:37 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:18:37 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:18:37 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:18:37 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:18:37 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:18:37 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:18:37 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:18:37 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:18:37 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:18:37 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:18:37 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:18:37 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:18:37 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:18:37 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:18:37 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:18:37 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:18:37 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:18:37 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:18:37 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:18:37 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:18:37 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:18:37 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:18:37 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:18:37 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:18:37 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:18:37 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:18:37 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:18:37 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:18:37 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:18:37 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:18:37 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:18:37 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:18:37 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:25:46 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:25:46 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-31 21:25:46 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-31 21:25:46 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:25:46 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:25:46 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:25:46 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:25:46 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:25:46 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:25:47 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:25:47 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:25:47 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:25:47 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:25:47 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:25:47 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:25:47 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:25:47 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:25:47 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:25:47 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:25:47 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:25:47 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:25:47 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:25:47 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:25:47 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:25:47 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:25:47 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:25:47 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:25:47 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:25:47 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:25:47 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:25:47 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:25:47 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:25:47 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:25:47 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:25:47 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:25:47 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:25:47 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:25:47 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:25:47 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:25:47 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:25:47 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:25:47 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:25:47 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:25:47 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:25:47 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:25:47 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:25:47 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:25:47 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:25:47 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:25:47 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:25:47 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:25:47 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:25:47 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:25:47 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:25:47 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:25:47 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:25:47 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:25:47 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:25:47 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:25:47 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:25:47 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:25:47 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:25:47 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:25:47 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:25:47 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:25:47 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:25:48 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:25:48 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:25:48 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:25:48 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:25:48 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:25:48 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:25:48 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:25:48 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:33:20 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:33:20 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-31 21:33:20 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-31 21:33:20 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:33:20 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:33:20 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:33:20 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:33:20 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:33:20 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:33:21 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:33:21 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:33:21 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:33:21 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:33:21 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:33:21 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:33:21 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:33:21 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:33:21 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:33:21 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:33:21 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:33:21 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:33:21 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:33:21 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:33:21 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:33:21 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:33:21 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:33:21 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:33:21 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:33:21 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:33:21 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:33:21 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:33:21 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:33:21 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:33:21 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:33:21 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:33:21 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:33:21 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:33:21 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:33:21 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:33:21 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:33:21 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:33:21 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:33:21 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:33:21 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:33:21 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:33:21 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:33:21 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:33:21 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:33:21 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:33:21 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:33:21 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:33:21 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:33:21 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:33:21 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:33:21 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:33:21 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:33:21 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:33:21 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:33:21 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:33:21 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:33:21 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:33:21 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:33:21 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:33:21 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:33:21 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:33:21 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-31 21:33:21 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: PersistenceDB]
+2023-05-31 21:33:21 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-31 21:33:21 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/kameraadatbazis]
+2023-05-31 21:33:21 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-31 21:33:21 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2023-05-31 21:33:21 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2023-05-31 21:33:21 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-31 21:33:21 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]

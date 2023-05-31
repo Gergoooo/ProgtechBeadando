@@ -1,0 +1,19 @@
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1" >
+<!-- Define persistence unit -->
+<persistence-unit name="PersistenceDB">
+    <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+    <class>com.gergo.alkalmazas.KameraApp</class>
+    <class>com.gergo.alkalmazas.model.KameraHaz</class>
+    <class>com.gergo.alkalmazas.model.Filter</class>
+    <class>com.gergo.alkalmazas.model.Optika</class>
+    <properties>
+        <property name="hibernate.connection.driver_class" value="com.mysql.cj.jdbc.Driver" />
+        <property name="hibernate.connection.url" value="jdbc:mysql://localhost:3306/kameraadatbazis" />
+        <property name="hibernate.connection.username" value="root" />
+        <property name="hibernate.connection.password" value="" />
+        <property name="hibernate.show_sql" value="True" />
+
+        <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect"/>
+    </properties>
+</persistence-unit>
+</persistence>
