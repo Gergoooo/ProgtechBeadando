@@ -72,7 +72,7 @@ public class OptikaRepository {
     }
 
     //List all elements
-    public List<Optika> optikaList() {
+    public static List<Optika> optikaList() {
         try {
             List<Optika> optikaList;
             EntityManagerFactory emf = Persistence
