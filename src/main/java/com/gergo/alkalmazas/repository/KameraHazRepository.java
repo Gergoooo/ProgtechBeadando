@@ -53,7 +53,7 @@ public class KameraHazRepository {
     }
 
     //Read
-    public KameraHaz readKamerahaz(Integer id){
+    static public KameraHaz readKamerahaz(Integer id){
         try {
             KameraHaz kameraHaz;
             EntityManagerFactory emf = Persistence
@@ -72,7 +72,7 @@ public class KameraHazRepository {
     }
 
     //List all elements
-    public List<KameraHaz> KamerahazList() {
+    public static List<KameraHaz> KamerahazList() {
         try {
             List<KameraHaz> kamerahazList;
             EntityManagerFactory emf = Persistence
