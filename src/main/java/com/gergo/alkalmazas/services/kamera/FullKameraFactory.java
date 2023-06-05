@@ -30,7 +30,7 @@ public class FullKameraFactory implements IKameraFactory{
             {
                 for (Optika optika : optikaList
                 ) {
-                    if (optika.getPublisher().equals(publisher) || optika.getCompability().equals(publisher)) {
+                    if (optika.getPublisher().equals(publisher) || optika.getCompatibility().equals(publisher)) {
                         for (Filter filter: filterList
                              ) {
                             Kamera kamera = new Kamera();

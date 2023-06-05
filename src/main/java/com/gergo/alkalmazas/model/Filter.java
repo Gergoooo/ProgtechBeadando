@@ -55,8 +55,7 @@ public class Filter {
         this.price = price;
     }
 
-    @Override
     public String toString() {
-        return name+price+type;
+        return getName();
     }
 }

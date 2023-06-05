@@ -59,4 +59,8 @@ public class KameraHaz {
         this.price = price;
     }
 
+    public String toString() {
+        return getName();
+    }
+
 }

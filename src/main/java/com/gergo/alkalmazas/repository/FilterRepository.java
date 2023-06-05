@@ -72,7 +72,7 @@ public class FilterRepository {
     }
 
     //List all elements
-    public List<Filter> filterList() {
+    public static List<Filter> filterList() {
         try {
             List<Filter> filterList;
             EntityManagerFactory emf = Persistence
