@@ -23,9 +23,9 @@ public class Optika {
     @Column(name = "publisher")
     private String publisher;
 
-    @Column(name = "compability")
+    @Column(name = "compatibility")
     @Convert(converter= PublisherConverter.class)
-    private Publisher compability;
+    private Publisher compatibility;
 
     @Column(name="price")
     private Integer price;
@@ -54,12 +54,12 @@ public class Optika {
         this.publisher = publisher;
     }
 
-    public Publisher getCompability() {
-        return compability;
+    public Publisher getCompatibility() {
+        return compatibility;
     }
 
-    public void setCompability(Publisher compability) {
-        this.compability = compability;
+    public void setCompatibility(Publisher compatibility) {
+        this.compatibility = compatibility;
     }
 
     public Integer getPrice() {
@@ -69,4 +69,10 @@ public class Optika {
     public void setPrice(Integer price) {
         this.price = price;
     }
+
+    @Override
+    public String toString() {
+        return getName();
+    }
+
 }

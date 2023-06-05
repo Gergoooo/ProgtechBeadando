@@ -20,7 +20,7 @@ public class OptikaTest {
         Optika optika = new Optika();
         optika.setName("Fujitsu 8X");
         optika.setPublisher("Fujitsu");
-        optika.setCompability(Publisher.nikon);
+        optika.setCompatibility(Publisher.nikon);
         optika.setPrice(450000);
         Boolean result = optikaRepository.addOptika(optika);
         Assertions.assertNotNull(optika);
@@ -33,7 +33,7 @@ public class OptikaTest {
         Optika optika = new Optika();
         optika.setName("Fujitsu 8X");
         optika.setPublisher("Fujitsu");
-        optika.setCompability(Publisher.nikon);
+        optika.setCompatibility(Publisher.nikon);
         optika.setPrice(450000);
         optikaRepository.addOptika(optika);
         Optika createdOptika =  optikaRepository.readOptika(optika.getId());
@@ -50,7 +50,7 @@ public class OptikaTest {
         Optika optika = new Optika();
         optika.setName("Fujitsu 8X");
         optika.setPublisher("Fujitsu");
-        optika.setCompability(Publisher.nikon);
+        optika.setCompatibility(Publisher.nikon);
         optika.setPrice(450000);
         optikaRepository.addOptika(optika);
         int updatedSize = optikaRepository.optikaList().size();
